@@ -1,8 +1,12 @@
 # Image-Fusion
 Image fusion method
-Source code of Artical 
+Source code of article 
 “A Phase Congruency and Local Laplacian Energy based Multi-modality Medical Image Fusion Method in NSCT Domain”
+
 By Zhiqin Zhu and Mingyao Zheng
+
+Zhiqin Zhu, Mingyao Zheng, Guanqiu Qi, Di Wang, Yang Xiang
+A Phase Congruency and Local Laplacian Energy Based Multi-Modality Medical Image Fusion Method in NSCT Domain.[J]. IEEE Access, 2019(7):20811-20824.
 
 @ARTICLE{8636953, 
 author={Z. {Zhu} and M. {Zheng} and G. {Qi} and D. {Wang} and Y. {Xiang}}, 
