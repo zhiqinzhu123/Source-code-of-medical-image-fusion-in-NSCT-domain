@@ -18,7 +18,7 @@ number={},
 pages={20811-20824}, 
 }
 
-Abstract
+Abstract{
 Multi-modality image fusion provides more comprehensive and sophisticated information in modern medical diagnosis, 
 remote sensing, video surveillance, and so on. This paper presents a novel multi-modality medical image fusion 
 method based on phase congruency and local Laplacian energy. In the proposed method, the non-subsampled contourlet 
@@ -34,4 +34,4 @@ the effectiveness of the proposed method. The experiment results show that the p
 performance in both the image quantity and computational costs.}, 
 doi={10.1109/ACCESS.2019.2898111}, 
 ISSN={2169-3536}, 
-month={},
+
