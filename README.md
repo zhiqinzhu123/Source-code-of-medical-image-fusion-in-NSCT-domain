@@ -8,6 +8,8 @@ By Zhiqin Zhu and Mingyao Zheng
 Zhiqin Zhu, Mingyao Zheng, Guanqiu Qi, Di Wang, Yang Xiang
 A Phase Congruency and Local Laplacian Energy Based Multi-Modality Medical Image Fusion Method in NSCT Domain.[J]. IEEE Access, 2019(7):20811-20824.
 
+BIBTEX:
+
 @ARTICLE{8636953, 
 author={Z. {Zhu} and M. {Zheng} and G. {Qi} and D. {Wang} and Y. {Xiang}}, 
 journal={IEEE Access}, 
